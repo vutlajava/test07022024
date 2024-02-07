@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 Hello this is one txt file adding into the git repository
 updated some information by other developer
 Hello i have some other changes by Ashok 102
+=======
+-> ager assigned task id : 101
+-> I am working on that task (i am in middle of the task)
+-> Managed told that stop the work for 101 and complete 102 on priority. 
+-> Once 102 is completed then resume your work on 101
+>>>>>>> Stashed changes
 
